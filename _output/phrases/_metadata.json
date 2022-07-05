@@ -1,0 +1,14 @@
+{
+    "permission.conversation_write_only_for_staff.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "aa38282db94a1f92525b93100f500ec7"
+    },
+    "xfh_wofs_you_can_start_a_conversation_only_with_staff.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "4c9239c2620c6aad7f4d3ec0a6c14401"
+    }
+}

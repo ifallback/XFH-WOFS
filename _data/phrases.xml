@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="permission.conversation_write_only_for_staff" version_id="1000070" version_string="1.0.0"><![CDATA[Write only for staff]]></phrase>
+  <phrase title="xfh_wofs_you_can_start_a_conversation_only_with_staff" version_id="1000070" version_string="1.0.0"><![CDATA[You can start a conversation only with members of the staff.]]></phrase>
+</phrases>
